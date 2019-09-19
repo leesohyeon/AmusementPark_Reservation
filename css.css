@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+body{
+	font-family:"나눔스퀘어라운드 Regular";
+	align:center;
+	line-height:2em;
+	background-image:url("amusementpark.jpg");
+	background-size:100%;
+}
+.welcome{
+ valign:"center";	
+}
